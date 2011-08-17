@@ -18,11 +18,11 @@ display the email address as plain text in the form of: name AT domain DOT tld
 = Install =
 
 1. Unzip the `email-obfuscator.zip` file.
-1. Upload the the `email-obfuscator` folder to your `wp-contents/plugins` folder.
+1. Upload the `email-obfuscator` folder to your `wp-contents/plugins` folder.
 
 = Activate =
 
-1. In your WordPress administration, go to the Plugins page
+1. In your WordPress admin, go to the Plugins page
 1. Activate the Email Obfuscator plugin
 
 If you find any bugs or have any ideas, please email us.
